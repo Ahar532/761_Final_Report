@@ -8,5 +8,5 @@
 
 ## CNN 
 ### Tiles: [Chch tiles](https://www.dropbox.com/scl/fo/7sdfhan6b86q6ri0oye24/ALM7iNfWW9oynWNn4PpLPuQ?rlkey=kdk48fjxpn27rkpon4in6sokc&st=przowc4f&dl=0)
-### Large Patches: [Patches](https://www.dropbox.com/scl/fo/mauujpylbyf5r9md6mw2v/AOHvMi9ATu7smWgBeJgeN78?rlkey=oiyod9ack4n1og6z68lrk8nq4&st=ti27x8ek&dl=0)
+### Large Patches: [Large 256x256 pixel patches](https://www.dropbox.com/scl/fo/mauujpylbyf5r9md6mw2v/AOHvMi9ATu7smWgBeJgeN78?rlkey=oiyod9ack4n1og6z68lrk8nq4&st=ti27x8ek&dl=0)
 ### Small Patches: [Small 128x128 pixel patches](https://www.dropbox.com/scl/fo/dwd6sx9b813cd63krbwt5/AF43fWqvK5e8Sgab-lB5rAQ?rlkey=zzqpskol0x222e1chb6qldv97&st=94s39ok8&dl=0)
